@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-import 'lib/iframe_screen.dart';
+import 'iframe_screen.dart';
 
 void main() {
   runApp(const MyApp());
